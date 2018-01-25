@@ -2,15 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="429ffd97-d77f-4d44-8778-89577ffe71ac" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pro2_2048/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pro2_2048/game2048.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pro3_cracky/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pro3_cracky/code.bmp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pro3_cracky/cracky.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pro3_cracky/util.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/0.bmp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/1.bmp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pro4_text_parser/Handler.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pro4_text_parser/Parser.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pro4_text_parser/Rule.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pro4_text_parser/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pro4_text_parser/util.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/pro4_text.txt" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/0efa74791ce536fafe8839f8d5bd34d4.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/1c790bdeb816d683852c72a6da57ab92.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/1ce8da79473f69fc250bf7b1b24406bf.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/29f38c2a600f27d0fdcb899154133428.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/40b2b3280d36126e055ff8f635054161.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/420f8530aa02976714011620d5599f7e.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/4b22e4fa45496f56b2448ed548a94310.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/5056e923bf892d2283b13a6ee9f5e2c9.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/55bb46cd8331498629ea50ad4152d543.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/6ca36ddea33f4c788a996d1bddaa3170.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/9da5c1591628599f995943431856ecf0.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/b0fda587bfe1bb91b88fb06b83fa8421.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/b3b6c12b89c69937fa1cbbe1f48bdf3c.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/d440c817a44541f8b850acce4ee4be89.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/d4aa5247939e678bed2b7992fbd74934.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/ecc5dbbe89c977d4c7bcfd4a6c184d78.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/0/f60faa7c5ff65009a9685790d7fb1601.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/0699480d586b2d8f32d35ea334ae2783.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/0b7723ef9353baec00d8e00e9bfee1b2.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/0d293f2d0ff3bc556eabbebb83f79416.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/15ce6a43ee0ffb921eb10ae7a2668454.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/195512d8197c8038988a2cb87d6102d1.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/21609b939bbeb7ed351df76a81c00d4f.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/298ba5a1832b66a3510d89fd9b633cb6.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/35b179c908b2983651b7120652fdde4e.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/4098a3d785c735dc9e223009c649e998.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/4fffa5a24943d1b7341af79ce4b53590.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/51008362cc9d893c18186de78ace6462.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/550aba07be80172e7ea9df535c62bdca.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/5addb15e1839fdfb76b3418375dadf67.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/6b2126b1c136ec0eedaac30a7d7503af.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/708e8a825be5009fd01130f8dd064b95.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/7d298be3affb4e73ff9775f04337b977.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/90502a5bf6fed880bdb12ce75d7e1da9.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/9eaed5dd91d1b7d76573e5bfbde5a672.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/a035ad4ad7a1d396f3fdf82d7f436c05.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/af4238ccc72660ae1c5784d96ba35b11.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/b2368948993a7e06cabad439102c184b.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/bb6536ccfa68ed0c4345986312b12ece.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/bc1851089ca517e78b4b1c8bf69bb9bb.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/bc8d4eddad141f848c89b035b86974a7.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/ca8dab664994ba30b8c77a4d988305b2.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/cb0d611b95308aa5eec66242e0a36c82.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/d42210535374d6d4480c2f50f82ed3ee.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/d7929f5a60a4d61d48732e20d92f6b4f.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/db7fdedaeaf93926b5ebfa774bc77d0f.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/e175fac61bc0cc68593632fc7d11b5f2.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/e25f18b60783a51e467fcd633ab6d189.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/iconset/1/e61bb88c62022813bb2817de409f1315.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pro3_cracky/util.py" afterPath="$PROJECT_DIR$/pro3_cracky/util.py" />
+      <change beforePath="$PROJECT_DIR$/static/0.bmp" afterPath="$PROJECT_DIR$/pro3_cracky/iconset/set/0.bmp" />
+      <change beforePath="$PROJECT_DIR$/static/1.bmp" afterPath="$PROJECT_DIR$/pro3_cracky/iconset/set/1.bmp" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,26 +71,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cracky.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pro3_cracky/cracky.py">
+      <file leaf-file-name="util.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro4_text_parser/util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+            <state relative-caret-position="460">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Handler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro4_text_parser/Handler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parser.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pro4_text_parser/Parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
               <folding>
-                <element signature="e#119#140#0" expanded="true" />
+                <element signature="e#47#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="util.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pro3_cracky/util.py">
+      <file leaf-file-name="Rule.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro4_text_parser/Rule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-              <folding>
-                <element signature="e#48#69#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="259">
+              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,13 +132,18 @@
         <option value="$PROJECT_DIR$/pro2_2048/game2048.py" />
         <option value="$PROJECT_DIR$/pro3_cracky/cracky.py" />
         <option value="$PROJECT_DIR$/pro3_cracky/util.py" />
+        <option value="$PROJECT_DIR$/static/pro4_text.txt" />
+        <option value="$PROJECT_DIR$/pro4_text_parser/util.py" />
+        <option value="$PROJECT_DIR$/pro4_text_parser/Rule.py" />
+        <option value="$PROJECT_DIR$/pro4_text_parser/Handler.py" />
+        <option value="$PROJECT_DIR$/pro4_text_parser/Parser.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="860" />
-    <option name="y" value="1" />
-    <option name="width" value="1059" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="990" />
     <option name="height" value="1060" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -113,32 +186,12 @@
             <path>
               <item name="WayOfPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="WayOfPython" type="462c0819:PsiDirectoryNode" />
-              <item name="pro1_word_fill_image" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WayOfPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WayOfPython" type="462c0819:PsiDirectoryNode" />
-              <item name="pro2_2048" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WayOfPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WayOfPython" type="462c0819:PsiDirectoryNode" />
-              <item name="pro3_cracky" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WayOfPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WayOfPython" type="462c0819:PsiDirectoryNode" />
-              <item name="pro3_cracky" type="462c0819:PsiDirectoryNode" />
-              <item name="iconset" type="462c0819:PsiDirectoryNode" />
+              <item name="pro4_text_parser" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WayOfPython" type="b2602c69:ProjectViewProjectNode" />
               <item name="WayOfPython" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WayOfPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -148,7 +201,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.documentation.PythonDocumentationConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -160,6 +213,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\pythonDemo\wop\WayOfPython\pro3_cracky\iconset\set" />
       <recent name="F:\pythonDemo\wop\WayOfPython\pro3_cracky" />
       <recent name="F:\pythonDemo\wop\WayOfPython\pro3_cracky\iconset" />
       <recent name="F:\pythonDemo\wop\WayOfPython\static" />
@@ -177,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cracky">
+  <component name="RunManager" selected="Python.Parser">
     <configuration name="CharFillImage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,6 +245,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="WayOfPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pro1_word_fill_image/CharFillImage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pro4_text_parser" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WayOfPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pro4_text_parser/Parser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,18 +322,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.CharFillImage" />
       <item index="1" class="java.lang.String" itemvalue="Python.game2048" />
       <item index="2" class="java.lang.String" itemvalue="Python.cracky" />
       <item index="3" class="java.lang.String" itemvalue="Python.util" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Parser" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.cracky" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Parser" />
         <item index="1" class="java.lang.String" itemvalue="Python.util" />
-        <item index="2" class="java.lang.String" itemvalue="Python.game2048" />
-        <item index="3" class="java.lang.String" itemvalue="Python.CharFillImage" />
+        <item index="2" class="java.lang.String" itemvalue="Python.cracky" />
+        <item index="3" class="java.lang.String" itemvalue="Python.game2048" />
+        <item index="4" class="java.lang.String" itemvalue="Python.CharFillImage" />
       </list>
     </recent_temporary>
   </component>
@@ -282,17 +356,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="860" y="1" width="1059" height="1060" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23114593" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10484721" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30985916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3972013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32723358" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -315,10 +390,50 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pro3_cracky/cracky.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="e#119#140#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding>
+            <element signature="e#47#56#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/cracky.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="e#119#140#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding>
+            <element signature="e#47#56#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/cracky.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="980">
           <caret line="49" column="17" lean-forward="false" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
           <folding>
-            <element signature="e#119#140#0" expanded="true" />
+            <element signature="e#119#140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -328,7 +443,7 @@
         <state relative-caret-position="420">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#48#69#0" expanded="true" />
+            <element signature="e#47#56#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -337,7 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -345,13 +459,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/test.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pro1_word_fill_image/sheep.txt">
@@ -375,61 +483,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pro1_word_fill_image/CharFillImage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pro3_cracky/wm_gray.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/wm_gray.gif" />
     <entry file="file://$PROJECT_DIR$/pro3_cracky/7c8ab981c8daabed2f1912c0b0b1aac6.gif" />
     <entry file="file://$PROJECT_DIR$/pro3_cracky/7d08f3066ee876feb0f80f850fe4d0f0.gif" />
     <entry file="file://$PROJECT_DIR$/pro3_cracky/iconset/0/2d03c4edc80bfa30bd38e2b74de047fd.gif" />
-    <entry file="file://$PROJECT_DIR$/static/0.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pro3_cracky/gray.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pro3_cracky/wm.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/gray.bmp" />
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/wm.gif" />
     <entry file="file://$PROJECT_DIR$/pro2_2048/game2048.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/iconset/set/0.bmp">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/test.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/iconset/0/0efa74791ce536fafe8839f8d5bd34d4.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/iconset/0/1c790bdeb816d683852c72a6da57ab92.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1251238767/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="380" column="4" lean-forward="false" selection-start-line="380" selection-start-column="4" selection-end-line="380" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/iconset/0/3de9ab3489f975f68a4f3117ffd08ee5.tif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/iconset/0/3de861e18299fb3136ee6888e5bee9d3.tif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro3_cracky/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-828">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#47#56#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro1_word_fill_image/CharFillImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#48#69#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pro3_cracky/cracky.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="140">
+          <caret line="41" column="53" lean-forward="false" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="53" />
           <folding>
-            <element signature="e#119#140#0" expanded="true" />
+            <element signature="e#119#140#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pro3_cracky/util.py">
+    <entry file="file://$PROJECT_DIR$/static/pro4_text.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        <state relative-caret-position="340">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro4_text_parser/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro4_text_parser/Rule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/software/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="183" column="4" lean-forward="false" selection-start-line="183" selection-start-column="4" selection-end-line="183" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro4_text_parser/Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro4_text_parser/Handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro4_text_parser/Parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
           <folding>
-            <element signature="e#48#69#0" expanded="true" />
+            <element signature="e#47#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
