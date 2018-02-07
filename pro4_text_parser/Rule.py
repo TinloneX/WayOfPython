@@ -53,8 +53,10 @@ class ListRule(ListItemRule):
     def action(self, block, handler):
         if not self.inside and ListItemRule.condition(self, block):
             handler.start(self.type)
+            self.inside = True
         elif self.inside and not ListItemRule.condition(self, block):
             handler.end(self.type)
+            self.inside = False
         return False
 
 

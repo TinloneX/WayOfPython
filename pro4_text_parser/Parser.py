@@ -63,6 +63,6 @@ if __name__ == '__main__':
     if os.path.exists('./Test.html') and os.path.isfile('./Test.html'):
         os.remove('./Test.html')
     with open('./Test.html', 'w') as f:
-        f.write('')
+        f.write(handler.html)
 
 
