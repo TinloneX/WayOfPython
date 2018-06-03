@@ -4,9 +4,11 @@
 from PIL import Image
 import os
 
-ASCII_CHAR = list("$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,\"^`'. ")
-IMG_PATH = '../static/test.png'
-SAVE_PATH = 'sheep.txt'
+# ASCII_CHAR = list("$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,\"^`'. ")
+# ASCII_CHAR = list("@8Wamci71~:                   ")
+ASCII_CHAR = list("@9652071       ")
+IMG_PATH = '../static/c2.jpg'
+SAVE_PATH = 'c2.txt'
 
 
 def get_char(r, g, b, alpha=256):
@@ -30,8 +32,8 @@ def translate(come, to, RGBA=True):
         rgba = 'RGB'
 
     img = Image.open(come).convert(rgba)
-    width = int(img.size[0] / 12)
-    height = int(img.size[1] / 12)
+    width = int(img.size[0] / 2)
+    height = int(img.size[1] / 2.8)
     img = img.resize((width, height)).convert(rgba)
 
     txt = ''
